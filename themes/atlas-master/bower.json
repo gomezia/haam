@@ -1,0 +1,17 @@
+{
+  "name": "Atlas",
+  "version": "1.0.0",
+  "authors": [
+    "Mustapha Meziane <mmeziane@ausy-group.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "fontawesome": "~4.3.0",
+    "bootstrap-sass": "~3.3.4"
+  }
+}

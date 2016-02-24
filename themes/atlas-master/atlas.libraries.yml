@@ -1,0 +1,10 @@
+global-css:
+  css:
+    theme:
+      css/styles.css: {}
+
+global-js:
+  js:
+    js/scripts.js: {}
+    bower_components/bootstrap/dist/js/bootstrap.min.js: {}
+
